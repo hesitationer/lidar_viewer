@@ -16,8 +16,8 @@ The application screen is presented below.
 Test data can be found the folder __Testdata__. There are 3 datasets:
 
 * CSite2_orig.txt     19MB
-* CSite2_orig.txt     14MB
-* CSite2_orig.txt     20MB
+* CSite3_orig.txt     14MB
+* CSite4_orig.txt     20MB
 
 ### Note
 This LiDAR Viewer project is part of my assignment for LiDAR class (2009 Winter).
